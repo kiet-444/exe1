@@ -1,0 +1,21 @@
+cp2: market research.
+
+Đưa ra khảo sát , chọn lọc , từng nhóm(điển hình).
+
+what:
+Tập trung vào nên hỏi những gì, mình cần biết gì(nhân khẩu học tạo ra phễu để chọn lọc[tuổi, họ cần gì, giới tính, chi phí, pain points],[tổ chức câu hỏi liên quan đến 4p or 7p mkt(sản phẩm,{price}, place, promotion , hướng tới người dùng quy trình, vật lý hạ tầng(cần thiết có store hay không], tùy 
+vào mục đích có thể lựa chọn 4p - 7p.
+=>Bước sum khi có data 
++ Miêu tả chân dung khách hàng.
++ Miêu tả sản phẩm dịch vụ (phát triển theo tính năng đã khảo sát).
++ Secondary Data (CRRG, trend, competitors).
+
+**Non - profit
+-Price lợi nhuận không chia cho nhau và đem tái đầu tư lợi nhuận ít nhất 51% vào dự án tiếp theo.
+-Có thể tham chiếu dữ liệu từ các vùng lân cận để có thể có các data cụ thể.
+
+**SWOT** với non - profit cũng tương tự như dị
+-Sau khi đã thu thập đầy đủ data đem về nấu ra swot trước ra bsmodel (cần đầy đủ thêm cần nhiều hơn thì nó mới gọi là ma trận).
+-Cần đủ số element bên trong ( còn cần đi ra từ EFE và IFE).
+-Cách hoạt động ma trận SWOT, s + o = w , trend tốt có thể khắc phục được W. 
+==>
